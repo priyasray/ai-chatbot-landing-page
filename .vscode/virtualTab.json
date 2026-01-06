@@ -1,0 +1,13 @@
+[
+  {
+    "id": "builtin_group_id",
+    "name": "Currently Open Files",
+    "files": [
+      "index.html",
+      "style.css",
+      "script.js"
+    ],
+    "builtIn": true,
+    "bookmarks": {}
+  }
+]
