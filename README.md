@@ -24,6 +24,22 @@ The design is inspired by a community **Figma UI kit** and implemented as a **fu
 
 ***
 
+## 🛠 Built With
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Figma (Design Reference
+
+***
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+Feel free to open an issue or submit a pull request.
+
+***
+
 ## 🌐 Links
 
 - **Live Demo:**  
@@ -39,3 +55,4 @@ The design is inspired by a community **Figma UI kit** and implemented as a **fu
 ```bash
 git clone https://github.com/priyasray/ai-chatbot-landing-page.git
 cd ai-chatbot-landing-page
+
