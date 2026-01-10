@@ -3250,7 +3250,13 @@ body{
     }
 }
 
-@media screen and (min-width: 601px) and (max-width: 801px){
+@media screen and (min-width: 801px) {
+    .nav_sections_mobile{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 800px){
         /* Scrolled Position */
     #Features{
         scroll-margin-top: 16vh;
@@ -3321,6 +3327,10 @@ body{
 
     .nav_buttons .btn_2 .btn_3{
         padding: 8px 24px;
+    }
+
+    .nav_sections_mobile ul li a{
+        font-size: 16px;
     }
     /* Hero Section */
     .hero_wrapper{
